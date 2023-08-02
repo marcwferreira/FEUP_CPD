@@ -4,7 +4,7 @@ CPD Projects of group T03G11
 
 For the second project the readme can be found in the doc folder, or you can click the link below:
 
-[assignment 2 - README](https://git.fe.up.pt/cpd/2223/t03/g11/-/blob/main/assign2/doc/README.md)
+[assignment 2 - README](https://github.com/marcwferreira/FEUP_CPD/blob/master/assign2/doc/README.md)
 
 Group members:
 
